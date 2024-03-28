@@ -15,8 +15,9 @@ To use the Students' Residence Finder, the students will simply visit the websit
 If you're interested in contributing to the Students' Residence Finder, follow these steps:
 1. Clone the repository to your local machine: `git clone https://github.com/Mishhopkins/students--residence-finder.git`
 2. Install dependencies
-3. Start the XAMMP server
-4. Make your changes and submit a pull request.
+3. check the installations file for the guidelines to install the System
+4. Start the XAMMP server
+5. Make your changes and submit a pull request.
 
 ### Contributor Expectations
 We welcome contributions from the community! Here are some guidelines to follow when contributing to Students' Residence Finder:
