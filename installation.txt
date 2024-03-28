@@ -1,0 +1,55 @@
+# Msavi Campus Residence Finder
+
+###### This Web application helps landlords and owners to register individaul home or apartment to assist students (comrades) in finding the perfect rental home or property types. Also they can find their next rental from search view in a targeted area, and within a given budget.
+
+## Built with Core PHP, PHP PDO, Bootstrap4, Jquery, MYSQL.
+
+
+installation of house rental and property listing project
+
+
+Softwares need 
+
+1. xamp or wamp 
+
+2. xamp/wamp - extract the zip file to inside htdocs/www.
+
+3. start xamp/wamp server.
+
+4. open browser and type - localhost/home-rental
+
+
+show error--
+
+SQLSTATE[HY000] [1049] Unknown database 'newrent'
+
+
+5. goto localhost/phpmyadmin .
+
+and create database newrent
+
+and import newrent.sql file
+
+6. finally project is successfully installed 
+
+next see how to work it
+
+admin login
+
+username - admin
+
+password- admin
+
+
+Register as new user 
+
+OR
+
+user / landlord /owner login
+
+username - mishael
+
+password - mishael20
+
+developed by Mishael Momanyi
+
